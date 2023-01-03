@@ -2,8 +2,6 @@
 
 Simple Nested dynamic form.
 
-```
-
 ## Install dependencies
 
 ```
@@ -23,4 +21,3 @@ npm run dev
 ## Web-URL
 
 https://kf-form.web.app/
-```
